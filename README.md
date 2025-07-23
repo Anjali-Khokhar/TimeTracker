@@ -39,7 +39,7 @@ The Employee Status Tracker is built to simplify monitoring and updating employe
 🌐 Deployment
 This project is deployed on Netlify. The current live URL is:
 
-https://timeracker.netlify.app/login
+https://timeracker.netlify.app
 
 To redeploy:
 
