@@ -15,7 +15,6 @@ Check out the live deployed project here:
 - [Getting Started](#getting-started)
 - [Deployment](#deployment)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## 💡 About
 
